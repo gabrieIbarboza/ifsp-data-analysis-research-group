@@ -133,7 +133,7 @@ echo "================ CONTAGEM VALIDAÇÃO BANCO =================="
 # Definir variáveis para conexão com o banco
 DB_HOST="localhost"
 DB_USER="root"
-DB_PASS="Fthyy*83"
+DB_PASS="MyAmazingPa$$word"
 DB_NAME="sim_data"
 
 # Consulta SQL
