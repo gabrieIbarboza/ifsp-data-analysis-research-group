@@ -2,6 +2,8 @@
 
 Este documento explica como executar os scripts `extract.sh` e `extract2.sh` no diretório `etl/`, detalhando o fluxo ETL conforme o diagrama `etl-activity-diagram.png`.
 
+> **Atenção:** A execução do script `extract.sh` pode levar entre **1h e 2h**, pois o volume total de dados processados é de aproximadamente **16GB**.
+
 ## Visão Geral
 
 A etapa do ETL deste projeto foi totalmente automatizada utilizando um script desenvolvido em Shell Script e um utilitário em Linguagem C. O processo realiza:
